@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cb86f326-2a70-45d0-b9c7-cfd9aef47421" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/gentech/excel/ReadExcelContentDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/gentech/excel/WriteExcelContentDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,29 +22,29 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2lVIALqcdFYpYq3ceIwTlKgYoaj" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.ReadExcelContentDemo.executor": "Run",
-    "Application.WriteExcelContentDemo.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "devbranch",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/admin/Downloads/poi-bin-5.2.3/poi-scratchpad-5.2.3.jar",
-    "onboarding.tips.debug.path": "C:/GitDevRepository/CurrentWorkSpace/FullStackDevRepository2024/ExcelAutomation/src/Main.java",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ReadExcelContentDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WriteExcelContentDemo.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/admin/Downloads/poi-bin-5.2.3/poi-scratchpad-5.2.3.jar&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/GitDevRepository/CurrentWorkSpace/FullStackDevRepository2024/ExcelAutomation/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
