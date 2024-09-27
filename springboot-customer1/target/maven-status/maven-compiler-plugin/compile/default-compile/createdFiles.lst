@@ -1,8 +1,0 @@
-com\gentech\customer\SpringbootCustomer1Application.class
-com\gentech\customer\entity\Customer.class
-com\gentech\customer\repository\CustomerRepository.class
-com\gentech\customer\ServletInitializer.class
-com\gentech\customer\controller\CustomerController.class
-com\gentech\customer\exception\ResourceNotFoundException.class
-com\gentech\customer\serviceimpl\CustomerServiceImpl.class
-com\gentech\customer\service\CustomerService.class
